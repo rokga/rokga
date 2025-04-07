@@ -1,4 +1,4 @@
-### 안녕하세요 배우고 새로운 것을 적용하는 것을 좋아하는 개발자 문경록입니다. 👋
+
 
 <!--
 **rokga/rokga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
